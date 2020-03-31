@@ -1,6 +1,6 @@
 ---
 num: "lect01"
-lecture_date: 2019-04-01
+lecture_date: 2020-04-02
 desc: "Course overview, intro to Git and C++ classes"
 ready: true
 pdfurl: /lectures/CS24_Lecture1.pdf
