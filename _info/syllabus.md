@@ -34,7 +34,7 @@ You must contact the instructor for clarification if you receive information fro
 * Homeworks: 10%
 * Lab Assignments: 15%
 * Programming Assignments: 20%
-* Midterm Exams: 25%
+* Quizzes/Exams: 25%
 * Final Examination: 30%
 
 
