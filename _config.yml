@@ -1,0 +1,131 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-cs24.github.io 
+baseurl: "/s20"  
+
+name: "CS24 Spring 2020"
+course: "CS24"
+course_title: "Problem Solving with Computers II"
+title: "UCSB CS24 S20"
+github_url: https://github.com/ucsb-cs24/s20
+qtr: "S19"
+quarter: "Spring 2020"
+lecture_times: "TR 9:30am - 10:45am"
+lecture_location: "Online, Zoom meeting link available on Gauchospace"
+lab_times: "Wednesdays: 10a, 11a, 12p"
+tas: "Yang Zhou and Sean Jaffee"
+ulas: "
+Jared Flores
+Tina  Shi
+Sophie	Groenwold
+Joseph	Armstrong
+Kalyn	Klimek
+Lucas	Nguyen
+Carolyn	Hanson Lee
+"
+class_org:
+   name: ucsb-cs24-mirza 
+   url: https://github.com/ucsb-cs24-mirza
+   
+lect_repo: https://github.com/ucsb-cs24-mirza/cs24-s20-lectures
+start_week: 1
+start_date: 2020-03-29 
+num_weeks: 10
+extra_exam_week: true
+
+instructor_url: https://ucsb-cs24.github.io/instructor
+
+cal_dates: >
+  [
+  {"label":"First day of classes", "date":"2020-03-30" },
+  {"label":"Univ Holiday", "date":"2020-05-25" },
+  {"label":"Drop deadline (no W grade)","date":"2020-04-24" },
+  {"label":"S20 Instruction Ends", "date":"2020-06-05" },  
+  {"label":"S20 Quarter Ends", "date":"2020-06-12" }          
+  ]
+
+kramdown:
+   parse_block_html: true
+
+exclude:
+   - vendor
+include:
+  - _pages
+
+timezone: America/Los_Angeles
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  pa:
+    output: true
+    permalink: /pa/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  -
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: pa
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  -
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
