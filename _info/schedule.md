@@ -7,7 +7,7 @@ layout: default
 
 # Professor Mirza's Office Hours
 
-* TBD
+* Thursdays 2p - 4p (via Zoom)
 
 # ULA and TA Office Hours
 
@@ -17,6 +17,9 @@ layout: default
 <style>
 iframe { width: 100%;height:880px; overflow: scroll; }  
 </style>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSW2HLnyOLkiMahWSoTisVNZPUWor1CvY856ExFhgkUNIuO24BagPSx71cohfrYOOIRrLRx0BEHqOA_/pubhtml?gid=798031180&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 
 
