@@ -34,7 +34,8 @@ You must contact the instructor for clarification if you receive information fro
 * Homeworks: 10%
 * Lab Assignments: 15%
 * Programming Assignments: 20%
-* Quizzes/Exams: 25%
+* Participation: 2% (clickers),  (will replace with your average exam scores, whichever is higher)
+* Quizzes/Exams: 23%
 * Final Examination: 30%
 
 
