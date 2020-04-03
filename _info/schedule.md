@@ -7,7 +7,9 @@ layout: default
 
 # Professor Mirza's Office Hours
 
-* Thursdays 2p - 4p (via Zoom)
+* Thursdays 2p - 3p 
+* Fridays 1p - 2p
+* Zoom meeting information is available on gauchospace
 
 # ULA and TA Office Hours
 
