@@ -5,7 +5,7 @@ ready: true
 pdfurl:  /lectures/CS24_Lecture2.pdf
 annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
 annotatedready: true
-lecture_date: 2019-04-03
+lecture_date: 2020-04-07
 ---
 
 
@@ -20,7 +20,7 @@ lecture_date: 2019-04-03
 * Clarify the use of the const key word - const member variables vs. const functions
 * Constructors, parameterized constructors
 * Examine the differences and similarities between a procedural implementation and a OOP style program  
-* Convert a procedural program to OOP
+
 
 
 
