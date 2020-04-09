@@ -4,8 +4,8 @@ desc:  "The Big Four"
 ready: true
 pdfurl: /lectures/CS24_Lecture3.pdf
 annotatedpdfurl: /lectures/CS24_Lecture3_ann.pdf
-annotatedready: true
-lecture_date: 2019-04-08
+annotatedready: false
+lecture_date: 2020-04-09
 ---
 
 # Code from lecture:
@@ -21,6 +21,9 @@ lecture_date: 2019-04-08
 * Destructor
 * Copy-constructor
 * Copy-assignment
+
+## Operator overloading
+* We will overload some common operators for the complex class.
 
 
 
