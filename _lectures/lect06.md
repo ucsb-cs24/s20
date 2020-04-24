@@ -4,7 +4,7 @@ desc: "Operator Oveloading, GDB, intro to pa01"
 ready: true
 pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2020-04-21
 ---
 
