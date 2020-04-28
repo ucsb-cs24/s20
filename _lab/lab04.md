@@ -3,8 +3,8 @@ layout: lab
 num: lab04
 ready: true
 desc: "Binary Search Tree"
-assigned: 2019-04-30 15:00:00.00-8
-due: 2019-05-06 23:59:00.00-8
+assigned: 2020-04-29 9:00:00.00-8
+due: 2020-05-05 23:59:00.00-8
 ---
 <div markdown="1">
 
@@ -16,13 +16,15 @@ By the time you have completed this lab, you should be able to
 * Implement recursive functions for binary trees
 * Implement binary search tree functions
 
+## Collaboration policy
+This lab may be done solo or with a partner.
+If you are working with a partner, make sure both you and your partner are able to view the code on a shared screen. You may not work separately on the lab.
+
 ## Step by Step Instructions
 
 ## Step 1: Create a git repo and get the starter code
 
-First get together with your lab partner. If your regular partner is more than 5 minutes late, let your mentor know.
-
-Select a pilot, log into the CSIL machines.
+If you are working with a partner, select a pilot, log into the CSIL machines.
 
 ## Step 1a: Create a git repo, add your partner as collaborator
 
@@ -36,13 +38,13 @@ Select a pilot, log into the CSIL machines.
 
 ```
 cd ~/cs24
-git clone git@github.com:ucsb-cs24-s19/lab04_jgaucho_alily.git
+git clone git@github.com:ucsb-cs24-s20/lab04_jgaucho_alily.git
 ```
 
 Now navigate to your starter-code directory (cloned in a previous lab) and do a git pull to get the latest version of the code
 
 ```
-cd ~/cs24/cs24-s19-starter-code/
+cd ~/cs24/cs24-s20-starter-code/
 git pull
 cd ~/cs24/lab04_jgauch_alily/
 ```

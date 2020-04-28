@@ -8,7 +8,6 @@ annotatedready: true
 lecture_date: 2020-04-23	
 ---
 
-
 # Code from lecture
 [{{site.lect_repo}}/tree/master/lec-07]({{site.lect_repo}}/tree/master/lec-07)
 
