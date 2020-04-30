@@ -1,7 +1,7 @@
 ---
 num: "lect08"
 desc: "Binary Search Trees - Part 2"
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture8.pdf
 annotatedpdfurl: /lectures/CS24_Lecture8_ann.pdf
 annotatedready: false
