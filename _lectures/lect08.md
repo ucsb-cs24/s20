@@ -4,7 +4,7 @@ desc: "Binary Search Trees - Part 2"
 ready: true
 pdfurl: /lectures/CS24_Lecture8.pdf
 annotatedpdfurl: /lectures/CS24_Lecture8_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2020-04-30	
 ---
 
