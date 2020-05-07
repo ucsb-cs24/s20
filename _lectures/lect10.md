@@ -1,5 +1,5 @@
 ---
-num: "lect11"
+num: "lect10"
 desc: "Analyzing the running time of BST operations"
 ready: true
 pdfurl: /lectures/CS24_Lecture10.pdf
