@@ -23,32 +23,24 @@ This lab may be done with a partner
 Please complete the following two surveys to receive 1% extra credit on your overall grade. Each survey is worth 0.5%
 
 ## Survey 1: Complete the TA/Mentor evaluations
-This is an anonymous survey. To get credit please show the final screen  to the instructor TA/tutor during section
+This is an anonymous optional survey. 
 
 Here is the link to the survey:
 [Please click on this link to complete](https://bit.ly/ULA-Evaluation-S20)
 
+## Survey 2: Complete the TA/Mentor evaluations
+
+ This is an anonymous survey but its setup in a way that at the end you can still get credit for filling it. At the end of the survey you are directed to a separate survey where you should enter your credentials to get credit.
+
+Survey to get your feedback about the CS24 curriculum:
+[https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF](https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF)
 
 
-To get credit show a screenshot of the final page of the completed survey on gradescope (lab06) to your TA. They will record your grade manually.
-
-For more imformation, you can look at the lecture slides for heap and its implementation - [heap](https://ucsb-cs24.github.io/w19/lectures/CS24_Lecture13.pdf) and [heap implementation](https://ucsb-cs24.github.io/w19/lectures/CS24_Lecture14.pdf)
-
-## Step 1: Create a lab06 git repo and get the starter code
-
-First get together with your lab partner. If your regular partner is more than 5 minutes late, let your mentor know.
-
-Select a pilot, log into the CSIL machines.
-
-## Step 1a: Create a git repo, add your partner as collaborator
-
-* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs24-s19-mirza and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab06_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
-
-* The pilot should add the navigator as a collaborator on github, and the navigator should accept the request to join the repo. See instructions in previous labs
-
-## Step 1b: Clone your git repo and get the starter code
-
-* Create a git repo and get the starter code.
+## Step 1: Get the starter code
+Use scp to copy the starter code from CSIL from the following directory:
+```
+/cs/faculty/dimirza/cs24/cs24-s20-starter-code/lab06
+```
 
 You should have the following files:
 
