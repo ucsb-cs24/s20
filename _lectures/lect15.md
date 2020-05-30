@@ -4,7 +4,7 @@ desc: "Priority queues, Comparison classes, interview practice"
 ready: true
 pdfurl: /lectures/CS24_Lecture15.pdf
 annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2020-05-28
 
 ---
