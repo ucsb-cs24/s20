@@ -4,7 +4,7 @@ desc: "Queues, interview practice (contd)"
 ready: true
 pdfurl: /lectures/CS24_Lecture16.pdf
 annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2020-06-02
 
 ---
